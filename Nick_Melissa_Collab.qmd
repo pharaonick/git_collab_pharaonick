@@ -33,7 +33,7 @@ This is definitely awesome
 
 ### Merge Conflict: Collaborator Resolves
 
-Oh no! Another conflict
+sorry for lack of rodent
 
 ## Summary: How to Avoid Merge Conflicts
 
