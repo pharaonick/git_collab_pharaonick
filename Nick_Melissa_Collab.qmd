@@ -6,9 +6,12 @@ format: html
 
 ## Git Collaboration Tips
 
-### Tips: <owner's name here>
+### Tips: Nick
 
-<Owner adds their tips here!>
+- always be collaborating
+- collaborating is good
+- thank you for collaborating with me
+
 
 ### Tips: <collaborator's name here>
 
