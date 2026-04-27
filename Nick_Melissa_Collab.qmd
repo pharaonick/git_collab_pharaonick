@@ -13,17 +13,23 @@ format: html
 - thank you for collaborating with me
 
 
-### Tips: <Melissa Palmisciano>
+### Tips: Melissa Palmisciano
 
-* Communicate often
-* Work in separate designated sections of the document
-* Etc!
+- Communicate often
+- Work in separate designated sections of the document
+- Etc!
 
 ## How to Create a Merge Conflict 
 
 ### Merge Conflict: Owner Resolves
 
-Nick definitely is awesome but apparently does not rise to the level of AI creative autocomplete
+This is definitely awesome
+
+     .-"""-.__     
+    /      ' o'\
+ ,-;  '.  :   _c
+:_."\._ ) ::-"
+       ""m "m
 
 ### Merge Conflict: Collaborator Resolves
 
