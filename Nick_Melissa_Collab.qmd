@@ -23,7 +23,7 @@ format: html
 
 ### Merge Conflict: Owner Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - COLLABORATOR commits-pulls-pushes first>
+Nick definitely is awesome but apparently does not rise to the level of AI creative autocomplete
 
 ### Merge Conflict: Collaborator Resolves
 
