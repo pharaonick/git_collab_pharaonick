@@ -13,17 +13,21 @@ format: html
 - thank you for collaborating with me
 
 
-### Tips: <Melissa Palmisciano>
+### Tips: Melissa Palmisciano
 
-* Communicate often
-* Work in separate designated sections of the document
-* Etc!
+- Communicate often
+- Work in separate designated sections of the document
+- Etc!
 
 ## How to Create a Merge Conflict 
 
 ### Merge Conflict: Owner Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - COLLABORATOR commits-pulls-pushes first>
+     .-"""-.__     
+    /      ' o'\
+ ,-;  '.  :   _c
+:_."\._ ) ::-"
+       ""m "m
 
 ### Merge Conflict: Collaborator Resolves
 
