@@ -10,9 +10,11 @@ format: html
 
 <Owner adds their tips here!>
 
-### Tips: <collaborator's name here>
+### Tips: <Melissa Palmisciano>
 
-<Collaborator adds their tips here!>
+* Communicate often
+* Work in separate designated sections of the document
+* Etc!
 
 ## How to Create a Merge Conflict 
 
