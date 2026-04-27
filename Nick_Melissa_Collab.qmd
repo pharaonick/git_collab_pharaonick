@@ -33,7 +33,7 @@ This is definitely awesome
 
 ### Merge Conflict: Collaborator Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - OWNER commits-pulls-pushes first>
+Oh no! Another conflict
 
 ## Summary: How to Avoid Merge Conflicts
 
